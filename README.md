@@ -1,4 +1,4 @@
-# SQL Data Warehouse Analytics Project
+# SQL Data Analytics Project
 
 A comprehensive SQL data warehouse solution for sales analytics, customer segmentation, and product performance analysis. Built for research analyst portfolio demonstration.
 
